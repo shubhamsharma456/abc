@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448038904489",
+    "project_id": "aspen-travlle",
+    "storage_bucket": "aspen-travlle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448038904489:android:5f93a4edee1df95d603fb8",
+        "android_client_info": {
+          "package_name": "com.example.aspen_travelle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9c8o_wLmOx-ktZopTDUx8BKRKCPC0M8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
